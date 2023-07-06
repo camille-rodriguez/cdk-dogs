@@ -18,7 +18,7 @@ spec:
         app: cdk-dogs
     spec:
       containers:
-      - image: hillmanj/cdk-dogs:latest
+      - image: calvinhartwell/cdk-cats:latest
         imagePullPolicy: ""
         name: cdk-dogs
         ports:
